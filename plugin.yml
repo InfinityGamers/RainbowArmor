@@ -1,0 +1,16 @@
+name: RainbowArmor
+main: xBeastMode\RainbowArmor\RainbowArmor
+version: 1.1
+api:
+- 3.0.0
+load: POSTWORLD
+author: "xBeastMode"
+
+commands:
+ rgbarmor:
+  description: "Use the /rgbarmor command"
+  permission: "rgbarmor.use"
+permissions:
+ rgbarmor.use:
+  description: "access to the /rgbarmor command"
+  default: op

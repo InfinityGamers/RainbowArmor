@@ -1,0 +1,16 @@
+---
+# RainbowArmor by xBeastMode
+
+# in ticks, how often should the armor update?
+# 20 ticks = 1 second
+# recommended is 1 to make a smooth update
+interval: 1
+# the message when the player toggles the feature
+toggle-message: "&aYou toggled the rgb armor!"
+# other optional things for the rgb armor feature
+options:
+   # the amount of colors the plugin should generate
+   # the higher the more variety of colors
+   # the recommended amount is 1000
+   color-amount: 1000
+...
